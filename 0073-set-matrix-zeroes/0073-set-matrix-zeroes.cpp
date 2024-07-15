@@ -32,19 +32,10 @@ public:
             }
         }
 
-        // Zero out cells based on marks in the first row
+        // Zero out cells based on marks in first row and first column
         for (int i = 1; i < rows; ++i) {
-            if (matrix[i][0] == 0) {
-                for (int j = 1; j < cols; ++j) {
-                    matrix[i][j] = 0;
-                }
-            }
-        }
-
-        // Zero out cells based on marks in the first column
-        for (int j = 1; j < cols; ++j) {
-            if (matrix[0][j] == 0) {
-                for (int i = 1; i < rows; ++i) {
+            for (int j = 1; j < cols; ++j) {
+                if (matrix[i][0] == 0 || matrix[0][j] == 0) {
                     matrix[i][j] = 0;
                 }
             }
