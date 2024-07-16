@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/hrishikeshsankhla/Dsa-Striver/tree/master/0031-next-permutation) |
 | [0073-set-matrix-zeroes](https://github.com/hrishikeshsankhla/Dsa-Striver/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/hrishikeshsankhla/Dsa-Striver/tree/master/0118-pascals-triangle) |
 ## Hash Table
@@ -20,4 +21,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/hrishikeshsankhla/Dsa-Striver/tree/master/0118-pascals-triangle) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/hrishikeshsankhla/Dsa-Striver/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
