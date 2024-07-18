@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/hrishikeshsankhla/Dsa-Striver/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/hrishikeshsankhla/Dsa-Striver/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/hrishikeshsankhla/Dsa-Striver/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/hrishikeshsankhla/Dsa-Striver/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/hrishikeshsankhla/Dsa-Striver/tree/master/0075-sort-colors) |
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/hrishikeshsankhla/Dsa-Striver/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/hrishikeshsankhla/Dsa-Striver/tree/master/0073-set-matrix-zeroes) |
 ## Dynamic Programming
 |  |
@@ -39,4 +41,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/hrishikeshsankhla/Dsa-Striver/tree/master/0075-sort-colors) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/hrishikeshsankhla/Dsa-Striver/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
