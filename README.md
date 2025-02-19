@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/hrishikeshsankhla/Dsa-Striver/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/hrishikeshsankhla/Dsa-Striver/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/hrishikeshsankhla/Dsa-Striver/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/hrishikeshsankhla/Dsa-Striver/tree/master/0053-maximum-subarray) |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/hrishikeshsankhla/Dsa-Striver/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/hrishikeshsankhla/Dsa-Striver/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/hrishikeshsankhla/Dsa-Striver/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/hrishikeshsankhla/Dsa-Striver/tree/master/0088-merge-sorted-array) |
