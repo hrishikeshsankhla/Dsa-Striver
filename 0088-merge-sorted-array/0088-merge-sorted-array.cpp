@@ -1,7 +1,7 @@
 class Solution {
 public:
     void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
-         int p1 = m - 1; // Pointer for nums1
+        int p1 = m - 1; // Pointer for nums1
         int p2 = n - 1; // Pointer for nums2
         int p = m + n - 1; // Pointer for the end of nums1
 
