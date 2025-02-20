@@ -2,21 +2,17 @@ class Solution {
 public:
     void rotate(vector<int>& nums, int k) {
         int n = nums.size();
-        vector<int>temp;
         if (n == 1 || k == 0) return;  // Edge case: No need to rotate
 
-        k = k % n;
+        k = k % n;  // Handle cases where k > n
 
-        for(int i=n-k;i<n;i++){
-            temp.push_back(nums[i]);
-        }
-        for(int i=n-1;i>=k;i--){
-            nums[i]=nums[i-k];
-        }
-        for(int i = 0;i<k;i++){
-            nums[i]=temp[i];
-        }
+        // Step 1: Reverse the whole array
+        reverse(nums.begin(), nums.end());
 
-        
+        // Step 2: Reverse first k elements
+        reverse(nums.begin(), nums.begin() + k);
+
+        // Step 3: Reverse the remaining n-k elements
+        reverse(nums.begin() + k, nums.end());
     }
 };
