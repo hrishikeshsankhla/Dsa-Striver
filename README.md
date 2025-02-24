@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/hrishikeshsankhla/Dsa-Striver/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/hrishikeshsankhla/Dsa-Striver/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/hrishikeshsankhla/Dsa-Striver/tree/master/0287-find-the-duplicate-number) |
+| [0908-middle-of-the-linked-list](https://github.com/hrishikeshsankhla/Dsa-Striver/tree/master/0908-middle-of-the-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -97,4 +98,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/hrishikeshsankhla/Dsa-Striver/tree/master/0062-unique-paths) |
+## Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/hrishikeshsankhla/Dsa-Striver/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
